@@ -36,3 +36,15 @@ body {margin:0;}
   margin-top: 30px;
   height: 1500px; /* Used in this example to enable scrolling */
 }
+
+#jobTitle {
+  font-size: 1em;
+}
+
+#jobCompany {
+  font-size: 1em;
+}
+
+#jobDate {
+  font-size: 1em;
+}
